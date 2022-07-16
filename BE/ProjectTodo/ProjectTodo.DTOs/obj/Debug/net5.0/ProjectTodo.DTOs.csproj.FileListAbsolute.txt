@@ -1,0 +1,15 @@
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.DTOs\bin\Debug\net5.0\ProjectTodo.DTOs.deps.json
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.DTOs\bin\Debug\net5.0\ProjectTodo.DTOs.runtimeconfig.json
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.DTOs\bin\Debug\net5.0\ProjectTodo.DTOs.runtimeconfig.dev.json
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.DTOs\bin\Debug\net5.0\ProjectTodo.DTOs.dll
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.DTOs\bin\Debug\net5.0\ref\ProjectTodo.DTOs.dll
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.DTOs\bin\Debug\net5.0\ProjectTodo.DTOs.pdb
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.DTOs\obj\Debug\net5.0\ProjectTodo.DTOs.csproj.AssemblyReference.cache
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.DTOs\obj\Debug\net5.0\ProjectTodo.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.DTOs\obj\Debug\net5.0\ProjectTodo.DTOs.AssemblyInfoInputs.cache
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.DTOs\obj\Debug\net5.0\ProjectTodo.DTOs.AssemblyInfo.cs
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.DTOs\obj\Debug\net5.0\ProjectTodo.DTOs.csproj.CoreCompileInputs.cache
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.DTOs\obj\Debug\net5.0\ProjectTodo.DTOs.dll
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.DTOs\obj\Debug\net5.0\ref\ProjectTodo.DTOs.dll
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.DTOs\obj\Debug\net5.0\ProjectTodo.DTOs.pdb
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.DTOs\obj\Debug\net5.0\ProjectTodo.DTOs.genruntimeconfig.cache

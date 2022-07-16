@@ -1,0 +1,15 @@
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.Services\bin\Debug\net5.0\ProjectTodo.Services.deps.json
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.Services\bin\Debug\net5.0\ProjectTodo.Services.dll
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.Services\bin\Debug\net5.0\ref\ProjectTodo.Services.dll
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.Services\bin\Debug\net5.0\ProjectTodo.Services.pdb
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.Services\bin\Debug\net5.0\ProjectTodo.DTOs.dll
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.Services\bin\Debug\net5.0\ProjectTodo.DTOs.pdb
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.Services\obj\Debug\net5.0\ProjectTodo.Services.csproj.AssemblyReference.cache
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.Services\obj\Debug\net5.0\ProjectTodo.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.Services\obj\Debug\net5.0\ProjectTodo.Services.AssemblyInfoInputs.cache
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.Services\obj\Debug\net5.0\ProjectTodo.Services.AssemblyInfo.cs
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.Services\obj\Debug\net5.0\ProjectTodo.Services.csproj.CoreCompileInputs.cache
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.Services\obj\Debug\net5.0\ProjectTodo.Services.csproj.CopyComplete
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.Services\obj\Debug\net5.0\ProjectTodo.Services.dll
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.Services\obj\Debug\net5.0\ref\ProjectTodo.Services.dll
+D:\Data\Group1\BE\ProjectTodo\ProjectTodo.Services\obj\Debug\net5.0\ProjectTodo.Services.pdb
