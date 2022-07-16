@@ -113,7 +113,7 @@ namespace ProjectTodo.Controllers
         /// get all customer
         /// </summary>
         /// <returns></returns>
-        [HttpGet("customer")]
+        [HttpGet("task")]
         public async Task<IActionResult> GetAllCustomerAsync()
         {
             try

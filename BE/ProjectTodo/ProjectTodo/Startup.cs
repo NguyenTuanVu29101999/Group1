@@ -39,6 +39,10 @@ namespace ProjectTodo
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ProjectTodo", Version = "v1" });
             });
+            services.AddCors(c =>
+            {
+                c.AddPolicy("AllowOrigin", options => options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+            });
         }
         #region "Add Scoped Services"
         private void AddScropedServices(IServiceCollection services)
@@ -66,6 +70,13 @@ namespace ProjectTodo
             {
                 endpoints.MapControllers();
             });
+
+            app.UseCors(options => options
+              .AllowAnyHeader()
+              .AllowAnyOrigin()
+              .AllowAnyMethod()
+          );
+
         }
     }
 }
