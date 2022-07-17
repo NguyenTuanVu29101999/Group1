@@ -31,15 +31,15 @@ namespace ProjectTodo.Controllers
         {
             try
             {
-                if (await _taskServices.CheckExistingCodeAsync(entity.TaskId))
-                {
-                    return BadRequest(new
-                    {
-                        Status = false,
-                        Message = string.Format("Dữ liệu này đã tồn tại"
-                        , entity.TaskId)
-                    });
-                }
+                //if (await _taskServices.CheckExistingCodeAsync(entity.TaskName))
+                //{
+                //    return BadRequest(new
+                //    {
+                //        Status = false,
+                //        Message = string.Format("Dữ liệu này đã tồn tại"
+                //        , entity.TaskName)
+                //    });
+                //}
 
                 ResponseModel response = await _taskServices.InsertAsync(entity);
 
@@ -87,13 +87,13 @@ namespace ProjectTodo.Controllers
         {
             try
             {
-                if (await _taskServices.CheckExistingCodeAsync(entity.TaskId))
+                if (await _taskServices.CheckExistingCodeAsync(entity.TaskName))
                 {
                     return BadRequest(new
                     {
                         Status = false,
                         Message = string.Format("Dữ liệu này đã tồn tại"
-                        , entity.TaskId)
+                        , entity.TaskName)
                     });
                 }
 

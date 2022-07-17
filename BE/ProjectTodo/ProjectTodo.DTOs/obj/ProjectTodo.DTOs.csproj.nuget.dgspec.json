@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Data\\Group1\\BE\\ProjectTodo\\ProjectTodo.DTOs\\ProjectTodo.DTOs.csproj": {}
+    "D:\\Group1\\BE\\ProjectTodo\\ProjectTodo.DTOs\\ProjectTodo.DTOs.csproj": {}
   },
   "projects": {
-    "D:\\Data\\Group1\\BE\\ProjectTodo\\ProjectTodo.DTOs\\ProjectTodo.DTOs.csproj": {
+    "D:\\Group1\\BE\\ProjectTodo\\ProjectTodo.DTOs\\ProjectTodo.DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data\\Group1\\BE\\ProjectTodo\\ProjectTodo.DTOs\\ProjectTodo.DTOs.csproj",
+        "projectUniqueName": "D:\\Group1\\BE\\ProjectTodo\\ProjectTodo.DTOs\\ProjectTodo.DTOs.csproj",
         "projectName": "ProjectTodo.DTOs",
-        "projectPath": "D:\\Data\\Group1\\BE\\ProjectTodo\\ProjectTodo.DTOs\\ProjectTodo.DTOs.csproj",
+        "projectPath": "D:\\Group1\\BE\\ProjectTodo\\ProjectTodo.DTOs\\ProjectTodo.DTOs.csproj",
         "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
-        "outputPath": "D:\\Data\\Group1\\BE\\ProjectTodo\\ProjectTodo.DTOs\\obj\\",
+        "outputPath": "D:\\Group1\\BE\\ProjectTodo\\ProjectTodo.DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -9529,11 +9529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Group1\\BE\\ProjectTodo\\ProjectTodo\\ProjectTodo.csproj",
+      "projectUniqueName": "D:\\Group1\\BE\\ProjectTodo\\ProjectTodo\\ProjectTodo.csproj",
       "projectName": "ProjectTodo",
-      "projectPath": "D:\\Data\\Group1\\BE\\ProjectTodo\\ProjectTodo\\ProjectTodo.csproj",
+      "projectPath": "D:\\Group1\\BE\\ProjectTodo\\ProjectTodo\\ProjectTodo.csproj",
       "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Group1\\BE\\ProjectTodo\\ProjectTodo\\obj\\",
+      "outputPath": "D:\\Group1\\BE\\ProjectTodo\\ProjectTodo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -9556,11 +9556,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Data\\Group1\\BE\\ProjectTodo\\ProjectTodo.DTOs\\ProjectTodo.DTOs.csproj": {
-              "projectPath": "D:\\Data\\Group1\\BE\\ProjectTodo\\ProjectTodo.DTOs\\ProjectTodo.DTOs.csproj"
+            "D:\\Group1\\BE\\ProjectTodo\\ProjectTodo.DTOs\\ProjectTodo.DTOs.csproj": {
+              "projectPath": "D:\\Group1\\BE\\ProjectTodo\\ProjectTodo.DTOs\\ProjectTodo.DTOs.csproj"
             },
-            "D:\\Data\\Group1\\BE\\ProjectTodo\\ProjectTodo.Services\\ProjectTodo.Services.csproj": {
-              "projectPath": "D:\\Data\\Group1\\BE\\ProjectTodo\\ProjectTodo.Services\\ProjectTodo.Services.csproj"
+            "D:\\Group1\\BE\\ProjectTodo\\ProjectTodo.Services\\ProjectTodo.Services.csproj": {
+              "projectPath": "D:\\Group1\\BE\\ProjectTodo\\ProjectTodo.Services\\ProjectTodo.Services.csproj"
             }
           }
         }

@@ -13,7 +13,7 @@ namespace ProjectTodo.Services.Services
     public interface ITaskServices
     {
         Task<List<TaskModel>> GetAllCustomers();
-        Task<bool> CheckExistingCodeAsync(int id = default);
+        Task<bool> CheckExistingCodeAsync(string name = default);
         Task<TaskModel> GetByIdAsync(int id);
         Task<ResponseModel> InsertAsync(TaskModel model);
         Task<ResponseModel> EditAsync(TaskModel model);
@@ -27,11 +27,11 @@ namespace ProjectTodo.Services.Services
             _context = context;
         }
 
-        public async Task<bool> CheckExistingCodeAsync(int id = 0)
+        public async Task<bool> CheckExistingCodeAsync(string name = null)
         {
             try
             {
-                TaskModel task  = await _context.TaskModel.FirstOrDefaultAsync(m => m.TaskId != id);
+                TaskModel task = await _context.TaskModel.FirstOrDefaultAsync(m => m.TaskName != name);
 
                 return task != null;
             }
@@ -122,7 +122,8 @@ namespace ProjectTodo.Services.Services
                 var customer = new TaskModel()
                 {
                     TaskName = model.TaskName,
-                    CreateDate = DateTime.Now
+                    CreateDate = DateTime.Now,
+                    IsCompleted = false
                 };
 
                 await _context.AddAsync(customer);

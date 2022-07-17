@@ -7,6 +7,7 @@ namespace ProjectTodo.DTOs.Models
     {
         public int TaskId { get; set; }
         public string TaskName { get; set; }
+        public bool? IsCompleted { get; set; }
         public DateTime? CreateDate { get; set; }
     }
 }
