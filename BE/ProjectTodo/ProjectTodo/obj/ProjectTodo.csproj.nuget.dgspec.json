@@ -10,7 +10,7 @@
         "projectUniqueName": "D:\\Group1\\BE\\ProjectTodo\\ProjectTodo.DTOs\\ProjectTodo.DTOs.csproj",
         "projectName": "ProjectTodo.DTOs",
         "projectPath": "D:\\Group1\\BE\\ProjectTodo\\ProjectTodo.DTOs\\ProjectTodo.DTOs.csproj",
-        "packagesPath": "C:\\Users\\ntvu2\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
         "outputPath": "D:\\Group1\\BE\\ProjectTodo\\ProjectTodo.DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
@@ -18,7 +18,7 @@
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ntvu2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -99,7 +99,7 @@
         "projectUniqueName": "D:\\Group1\\BE\\ProjectTodo\\ProjectTodo.Services\\ProjectTodo.Services.csproj",
         "projectName": "ProjectTodo.Services",
         "projectPath": "D:\\Group1\\BE\\ProjectTodo\\ProjectTodo.Services\\ProjectTodo.Services.csproj",
-        "packagesPath": "C:\\Users\\ntvu2\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
         "outputPath": "D:\\Group1\\BE\\ProjectTodo\\ProjectTodo.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
@@ -107,7 +107,7 @@
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ntvu2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -167,7 +167,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -177,7 +177,7 @@
         "projectUniqueName": "D:\\Group1\\BE\\ProjectTodo\\ProjectTodo\\ProjectTodo.csproj",
         "projectName": "ProjectTodo",
         "projectPath": "D:\\Group1\\BE\\ProjectTodo\\ProjectTodo\\ProjectTodo.csproj",
-        "packagesPath": "C:\\Users\\ntvu2\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
         "outputPath": "D:\\Group1\\BE\\ProjectTodo\\ProjectTodo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
@@ -185,7 +185,7 @@
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ntvu2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -257,7 +257,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
