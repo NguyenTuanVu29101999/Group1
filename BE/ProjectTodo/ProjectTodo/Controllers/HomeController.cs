@@ -59,12 +59,12 @@ namespace ProjectTodo.Controllers
         /// <param name="id"></param>
         /// <returns></returns>
         [HttpPost]
-        [Route("task/delete/{id}")]
-        public async Task<IActionResult> DeleteCustomerAsync(int id)
+        [Route("task/delete")]
+        public async Task<IActionResult> DeleteCustomerAsync(int taskId)
         {
             try
             {
-                ResponseModel response = await _taskServices.DeleteAsync(id);
+                ResponseModel response = await _taskServices.DeleteAsync(taskId);
 
                 Response.StatusCode = response.StatusCode;
                 return Ok(response);

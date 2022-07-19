@@ -17,7 +17,7 @@ namespace ProjectTodo.Services.Services
         Task<TaskModel> GetByIdAsync(int id);
         Task<ResponseModel> InsertAsync(TaskModel model);
         Task<ResponseModel> EditAsync(TaskModel model);
-        Task<ResponseModel> DeleteAsync(int id);
+        Task<ResponseModel> DeleteAsync(int taskId);
     }
     public class TaskServices : ITaskServices
     {
@@ -41,11 +41,11 @@ namespace ProjectTodo.Services.Services
             }
         }
 
-        public async Task<ResponseModel> DeleteAsync(int id)
+        public async Task<ResponseModel> DeleteAsync(int taskId)
         {
             try
             {
-                TaskModel entity = await _context.TaskModel.FindAsync(id);
+                TaskModel entity = await _context.TaskModel.FirstOrDefaultAsync(x => x.TaskId == taskId);
                 if (entity == null)
                 {
                     await _context.SaveChangesAsync();
